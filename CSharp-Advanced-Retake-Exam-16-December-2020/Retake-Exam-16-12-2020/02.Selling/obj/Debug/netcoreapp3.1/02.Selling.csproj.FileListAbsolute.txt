@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2020\Retake-Exam-16-12-2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.genruntimeconfig.cache
