@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\bin\Debug\netcoreapp3.1\03.Classroom.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\bin\Debug\netcoreapp3.1\03.Classroom.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\bin\Debug\netcoreapp3.1\03.Classroom.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\bin\Debug\netcoreapp3.1\03.Classroom.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\bin\Debug\netcoreapp3.1\03.Classroom.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\bin\Debug\netcoreapp3.1\03.Classroom.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\obj\Debug\netcoreapp3.1\03.Classroom.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\obj\Debug\netcoreapp3.1\03.Classroom.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\obj\Debug\netcoreapp3.1\03.Classroom.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\obj\Debug\netcoreapp3.1\03.Classroom.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\obj\Debug\netcoreapp3.1\03.Classroom.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\obj\Debug\netcoreapp3.1\03.Classroom.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\obj\Debug\netcoreapp3.1\03.Classroom.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-25-October-2020\Retake-Exam-25-10-2020\03.Classroom\obj\Debug\netcoreapp3.1\03.Classroom.genruntimeconfig.cache

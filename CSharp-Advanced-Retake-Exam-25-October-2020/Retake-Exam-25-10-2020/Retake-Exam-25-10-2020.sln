@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Scheduling", "01.Schedul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Garden", "02.Garden\02.Garden.csproj", "{7231CDEA-913F-4F3C-A96A-7D6D9998EC19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Classroom", "03.Classroom\03.Classroom.csproj", "{C7386E44-43DC-4178-BDE1-DA8F773B80C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7231CDEA-913F-4F3C-A96A-7D6D9998EC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7231CDEA-913F-4F3C-A96A-7D6D9998EC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7231CDEA-913F-4F3C-A96A-7D6D9998EC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7386E44-43DC-4178-BDE1-DA8F773B80C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7386E44-43DC-4178-BDE1-DA8F773B80C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7386E44-43DC-4178-BDE1-DA8F773B80C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7386E44-43DC-4178-BDE1-DA8F773B80C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
