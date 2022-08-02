@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-19-August-2020\Retake-Exam-19-08-2020\Retake-Exam-19-08-2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.genruntimeconfig.cache
