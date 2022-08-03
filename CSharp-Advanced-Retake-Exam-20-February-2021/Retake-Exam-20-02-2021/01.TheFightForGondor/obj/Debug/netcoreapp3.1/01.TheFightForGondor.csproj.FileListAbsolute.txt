@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-20-February-2021\Retake-Exam-20-02-2021\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.genruntimeconfig.cache
