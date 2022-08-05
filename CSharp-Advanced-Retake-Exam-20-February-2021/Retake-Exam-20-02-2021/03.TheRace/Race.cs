@@ -78,7 +78,7 @@ namespace TheRace
 
             foreach (var item in data)
             {
-                sb.AppendLine($"{item.Name}");
+                sb.AppendLine(item.ToString());
             }
 
             return sb.ToString().TrimEnd();
