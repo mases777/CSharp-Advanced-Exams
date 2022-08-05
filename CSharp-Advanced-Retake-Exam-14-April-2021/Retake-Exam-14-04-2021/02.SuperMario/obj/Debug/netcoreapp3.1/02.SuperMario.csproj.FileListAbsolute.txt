@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.genruntimeconfig.cache
