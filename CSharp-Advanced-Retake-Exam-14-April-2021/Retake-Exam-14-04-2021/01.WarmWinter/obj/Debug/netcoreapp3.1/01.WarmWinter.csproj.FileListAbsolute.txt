@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\bin\Debug\netcoreapp3.1\01.WarmWinter.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\01.WarmWinter\obj\Debug\netcoreapp3.1\01.WarmWinter.genruntimeconfig.cache
