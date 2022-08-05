@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-14-April-2021\Retake-Exam-14-04-2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.genruntimeconfig.cache
