@@ -2,7 +2,7 @@
 
 namespace CocktailParty
 {
-    class StartUp
+    public class StartUp
     {
         static void Main(string[] args)
         {
