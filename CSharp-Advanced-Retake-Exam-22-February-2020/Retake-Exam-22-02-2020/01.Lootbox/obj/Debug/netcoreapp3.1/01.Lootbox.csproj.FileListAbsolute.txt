@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\bin\Debug\netcoreapp3.1\01.Lootbox.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-22-February-2020\Retake-Exam-22-02-2020\01.Lootbox\obj\Debug\netcoreapp3.1\01.Lootbox.genruntimeconfig.cache
