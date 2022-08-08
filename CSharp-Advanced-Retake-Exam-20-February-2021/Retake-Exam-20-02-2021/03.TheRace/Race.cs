@@ -7,7 +7,7 @@ namespace TheRace
 {
     public class Race
     {
-        private List<Racer> data;        
+        private List<Racer> data;
         private string name;
         private int capacity;
         public string Name
@@ -50,17 +50,14 @@ namespace TheRace
                 data.Remove(racer);
                 return true;
             }
-            else
-            {
-                return false;
-            }
+            return false;
         }
         public Racer GetOldestRacer()
         {
             Racer racer = data.OrderByDescending(x => x.Age).FirstOrDefault();
             return racer;
         }
-        public Racer GetRacer(string namer)
+        public Racer GetRacer(string name)
         {
             Racer racer = data.FirstOrDefault(x => x.Name == name);
             return racer;
@@ -73,14 +70,11 @@ namespace TheRace
         public string Report()
         {
             StringBuilder sb = new StringBuilder();
-
             sb.AppendLine($"Racers participating at {Name}:");
-
             foreach (var item in data)
             {
                 sb.AppendLine(item.ToString());
             }
-
             return sb.ToString().TrimEnd();
         }
     }
