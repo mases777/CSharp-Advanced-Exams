@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\bin\Debug\netcoreapp3.1\03.SkiRental.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\bin\Debug\netcoreapp3.1\03.SkiRental.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\bin\Debug\netcoreapp3.1\03.SkiRental.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\bin\Debug\netcoreapp3.1\03.SkiRental.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\bin\Debug\netcoreapp3.1\03.SkiRental.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\bin\Debug\netcoreapp3.1\03.SkiRental.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\obj\Debug\netcoreapp3.1\03.SkiRental.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\obj\Debug\netcoreapp3.1\03.SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\obj\Debug\netcoreapp3.1\03.SkiRental.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\obj\Debug\netcoreapp3.1\03.SkiRental.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\obj\Debug\netcoreapp3.1\03.SkiRental.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\obj\Debug\netcoreapp3.1\03.SkiRental.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\obj\Debug\netcoreapp3.1\03.SkiRental.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\03.SkiRental\obj\Debug\netcoreapp3.1\03.SkiRental.genruntimeconfig.cache
