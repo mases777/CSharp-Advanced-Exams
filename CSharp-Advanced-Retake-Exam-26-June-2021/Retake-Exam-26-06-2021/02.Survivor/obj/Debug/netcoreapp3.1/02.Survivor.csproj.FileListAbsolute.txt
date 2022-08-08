@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-26-June-2021\Retake-Exam-26-06-2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache
