@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.genruntimeconfig.cache
