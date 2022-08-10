@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-18-August-2021\Retake-Exam-18-08-2021\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.genruntimeconfig.cache
