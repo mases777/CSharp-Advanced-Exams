@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FoodFinder", "01.FoodFin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PawnWars", "02.PawnWars\02.PawnWars.csproj", "{3A9E9BB2-FE2C-427A-87A5-B43F6ACD6834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.StockMarket", "03.StockMarket\03.StockMarket.csproj", "{EDAE526D-8B26-4DFB-A1C8-47D85FB8A6A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3A9E9BB2-FE2C-427A-87A5-B43F6ACD6834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A9E9BB2-FE2C-427A-87A5-B43F6ACD6834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A9E9BB2-FE2C-427A-87A5-B43F6ACD6834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAE526D-8B26-4DFB-A1C8-47D85FB8A6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAE526D-8B26-4DFB-A1C8-47D85FB8A6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAE526D-8B26-4DFB-A1C8-47D85FB8A6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAE526D-8B26-4DFB-A1C8-47D85FB8A6A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

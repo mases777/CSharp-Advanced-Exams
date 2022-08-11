@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-23-October-2021\Retake-Exam-23-10-2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.genruntimeconfig.cache
