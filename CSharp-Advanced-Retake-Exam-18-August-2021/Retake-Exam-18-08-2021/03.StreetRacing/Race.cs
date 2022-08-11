@@ -58,7 +58,7 @@ namespace StreetRacing
 
         public void Add(Car car)
         {
-            if (data.Count + 1 <= Capacity)
+            if (data.Count + 1 <= Capacity && car.HorsePower <= MaxHorsePower)
             {
                 data.Add(car);
             }
