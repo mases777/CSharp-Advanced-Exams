@@ -1,0 +1,14 @@
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.exe
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.deps.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.runtimeconfig.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.runtimeconfig.dev.json
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.csproj.AssemblyReference.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.AssemblyInfoInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.AssemblyInfo.cs
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.csproj.CoreCompileInputs.cache
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.dll
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.pdb
+F:\repos\CSharp-Advanced-Exams\CSharp-Advanced-Retake-Exam-16-December-2021\Retake-Exam-16-12-2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.genruntimeconfig.cache

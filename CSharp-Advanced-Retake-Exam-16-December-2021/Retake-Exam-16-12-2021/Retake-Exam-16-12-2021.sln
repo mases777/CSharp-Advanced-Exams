@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Blacksmith", "01.Blacksmith\01.Blacksmith.csproj", "{76BD5BD9-75C1-4168-B484-1A6FBC77262D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Armory", "02.Armory\02.Armory.csproj", "{FA4BE493-C1AF-4DD3-BF29-3B2B61C13B19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{76BD5BD9-75C1-4168-B484-1A6FBC77262D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76BD5BD9-75C1-4168-B484-1A6FBC77262D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76BD5BD9-75C1-4168-B484-1A6FBC77262D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4BE493-C1AF-4DD3-BF29-3B2B61C13B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4BE493-C1AF-4DD3-BF29-3B2B61C13B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4BE493-C1AF-4DD3-BF29-3B2B61C13B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4BE493-C1AF-4DD3-BF29-3B2B61C13B19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
